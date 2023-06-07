@@ -10,7 +10,7 @@ body {
 /*PRIMEIRA PARTE DO SITE*/
 .banner {
     height: 600px;
-    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url(/assets/images/banner.png);
+    background-image: linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)), url(assets/images/banner.png);
     border-bottom: 1px solid #33A8DB80;
     padding: 60px;
 }
@@ -104,7 +104,7 @@ section #course-content{
 /*TERCEIRA PARTE DO SITE*/
 #transform-world{
     height: 560px;
-    background-image: url(/assets/images/woman-code.png);
+    background-image: url(assets/images/woman-code.png);
     background-size: cover;
     background-attachment: fixed;
     padding: 200px;
